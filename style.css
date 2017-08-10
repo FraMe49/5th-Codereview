@@ -1,0 +1,48 @@
+#background{
+		background-image: url("http://www.powerpointhintergrund.com/uploads/wavy-bubble-background-30.png");
+		min-height: 200px;
+	
+		
+	}
+#background1{
+	background-image: url("http://www.pngall.com/wp-content/uploads/2017/01/Lightning-PNG-Image.png");
+	min-height:  200px;
+	background-repeat: no-repeat;
+}
+	#topSentence{
+		font-size: 2.3em;
+		font-weight: 900;
+	}
+	div .col-md-4{
+		font-size: 1.5em;
+		font-weight: 300;
+		color: orange;
+    
+}
+	div .col-md-3{
+		font-size: 1.5em;
+		font-weight: 300;
+		color: red;
+    
+}
+	#greyB{
+		background: lightgrey;
+		padding: 10px;
+
+	}
+	.row{
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+	#actionInput{
+		min-width: 200px;
+		max-width: 350px;
+		
+	}
+	#valueInput{
+		min-width: 100px;
+		max-width: 150px;
+	}
+	#scroll{
+		margin-left: 37em;
+	}
